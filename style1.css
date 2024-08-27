@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#1A237E;
+    font-family: Arial;
+    font-style: italic;
+    margin: 12px 12px 12px 12px;
+}
+h1{
+    font-size: 90px;
+    text-align: center;
+    color: #ffd700;
+    border: solid 6px #0a1f44;
+    border-radius: 30px 30px 30px 30px;
+}
+
+div{
+    border:solid 12px orange;
+    border-radius: 30px 30px 30px 30px;
+    margin-top: 30px;
+    color: yellowgreen;
+    text-align: center;
+    position: relative;
+    padding: 12px 12px 12px 12px;
+}
+button{
+    border: solid 3px ;
+    color: orange;
+    border-radius: 12px 12px 12px 12px;
+    margin: 12px 2px 12px 12px;
+    padding: 12px 12px 12px 12px;
+    cursor: pointer;
+}
